@@ -1,0 +1,5 @@
+attnfile	attn.merge.pkl
+nativevar	CAPRI_quality
+nativeval	0
+incorrectvar	CAPRI_quality
+incorrectval	4

@@ -1,0 +1,2 @@
+Prefix plugins/NativeNegative/example/
+Plugin NativeNegative inputfile parameters.txt outputfile nativenegative.pkl
